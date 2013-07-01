@@ -1,7 +1,4 @@
 Django RSS Widget
-======
-
-Django RSS Widget
 
 installation
 ============
