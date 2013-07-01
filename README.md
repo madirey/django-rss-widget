@@ -1,0 +1,2 @@
+django-rss-widget
+=================
